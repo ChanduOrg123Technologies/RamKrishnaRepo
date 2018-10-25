@@ -1,0 +1,10 @@
+<breakfast_menu>
+<food>
+    <name>Bangalore Waffles</name>
+    <price>$5.95</price>
+    <description>
+   Two of our famous Bangalore Waffles with plenty of real maple syrup
+   </description>
+    <calories>650</calories>
+</food>
+</breakfast_menu>
